@@ -20,9 +20,11 @@ This is an in-progress attempt to express some simple probability theory in lite
 * Making objects that obey the rules of probability theory, while remaining functional in terms of being able to generate samples, represent themselves as latex strings etc.
 * Keeping notebooks compact and readable, and always viewable in their entirety via nbviewer
 
-### Authors:
+### People:
 
 * Phil Marshall (KIPAC, Stanford University)
 * Jonathan Sick (Queens University, Kingston)
+* Jake Vanderplas (University of Washington)
+* David W. Hogg (New York University)
 
 We are open to collaboration via issues and pull requests! Fork away, keep in touch.
